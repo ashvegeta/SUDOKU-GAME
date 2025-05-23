@@ -1,3 +1,4 @@
+SETUP AND RUN
 1. npm init -y
 2. npm install --save-dev typescript 
 3. npx tsc --init
